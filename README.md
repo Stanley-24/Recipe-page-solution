@@ -47,5 +47,5 @@ I'm happy to participate on this challenge as i'm currently learning web develop
 - Website - [Stanley Owarieta](https://stanley-24.github.io/Landingpage/)
 - Frontend Mentor - [@Stanley-24](https://www.frontendmentor.io/profile/Stanley-24)
 - Linkedin - [@Stanley Owarieta](https://www.linkedin.com/in/stanley-owarieta-9127042b7/)
-- Github [Stanley-24] (https://github.com/Stanley-24)
+- Github [Stanley-24](https://github.com/Stanley-24)
 
